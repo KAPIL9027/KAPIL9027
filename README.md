@@ -1,7 +1,7 @@
 <img alt="banner" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <h1 align="center">Hi 👋, I'm Kapil</h1>
 <h3 align="center">A full stack web developer and certified Aws Cloud Practitioner from India.</h3>
-<img alt="coder-gif" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
+<img align="center" alt="coder-gif" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil9027&label=Profile%20views&color=0e75b6&style=flat" alt="kapil9027" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil9027" alt="kapil9027" /></a> </p>
