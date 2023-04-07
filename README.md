@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kapil</h1>
 <h3 align="center">A full stack web developer and certified Aws Cloud Practitioner from India.</h3>
 <div style="width: 100%">
-  <img  align="center" alt="coder-gif" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
+  <img style="margin: 0 auto" alt="coder-gif" src="https://steemitimages.com/0x0/https://steemitimages.com/DQmcBuLecqLnmWo2Jr11QYgrGv2dWe1NWGtJwXy5bWJkLJ9/Webp.net-gifmaker.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil9027&label=Profile%20views&color=0e75b6&style=flat" alt="kapil9027" /> </p>
 
