@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil9027" alt="kapil9027" /></a> </p>
 
-- 🔭 I’m currently working on [fullstack-linkedin-clone](https://github.com/KAPIL9027/fullstack-linkedin)
+- 🔭 I’m currently working on [fullstack-ecommerce-app](https://github.com/KAPIL9027/fullstack-ecommerce)
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sharmaakapil01@gmail.com**
 
-- ⚡ Fun fact **I am eager to learn different technologies and give my best.**
+- ⚡ Fun fact **I love making long projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
