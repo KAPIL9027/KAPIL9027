@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://kapil9027.github.io/portfolio/](https://next-js-portfolio-xi-tawny.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://kapil9027.github.io/portfolio/](https://next-js-portfolio-xi-tawny.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, Express.js and MongoDb.**
 
