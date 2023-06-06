@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://kapil9027.github.io/portfolio/](https://kapil9027.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://kapil9027.github.io/portfolio/](https://next-js-portfolio-xi-tawny.vercel.app/))
 
 - 💬 Ask me about **React.js, Node.js, Express.js and MongoDb.**
 
 - 📫 How to reach me **sharmaakapil01@gmail.com**
 
-- ⚡ Fun fact **I love making long projects.**
+- ⚡ Fun fact **I solve dsa problems using java but use javascript to develop applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
