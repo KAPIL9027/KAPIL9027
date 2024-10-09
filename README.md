@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a frontend application of qurate retail group where I am using svelte framework
 
-- 🌱 I’m currently learning **highly optimized, efficient frontend applications**
+- 🌱 I’m currently learning about how to build **highly optimized, efficient frontend applications**
   
 - 💬 Ask me about **React.js, Next.js, Node.js, Java**
 
