@@ -8,10 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil9027" alt="kapil9027" /></a> </p>
 
-- 🔭 I’m currently working on a frontend application of qurate retail group
+- 🔭 I’m currently working on a frontend application of qurate retail group where I am using svelte framework
 
-- 🌱 I’m currently learning **MERN Stack**
-- 
+- 🌱 I’m currently learning **highly optimized, efficient frontend applications**
+  
 - 💬 Ask me about **React.js, Next.js, Node.js, Java**
 
 - 📫 How to reach me **sharmaakapil01@gmail.com**
