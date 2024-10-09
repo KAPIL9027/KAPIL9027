@@ -1,6 +1,6 @@
 <img alt="banner" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <h1 align="center">Hi 👋, I'm Kapil</h1>
-<h3 align="center">A full stack web developer and certified Aws Cloud Practitioner from India.</h3>
+<h3 align="center">A Software Engineer from India!</h3>
 <div style="width: 100%">
   <img style="margin: 0 auto" alt="coder-gif" src="https://steemitimages.com/0x0/https://steemitimages.com/DQmcBuLecqLnmWo2Jr11QYgrGv2dWe1NWGtJwXy5bWJkLJ9/Webp.net-gifmaker.gif">
 </div>
@@ -8,13 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapil9027" alt="kapil9027" /></a> </p>
 
-- 🔭 I’m currently working on [fullstack-ecommerce-app](https://github.com/KAPIL9027/fullstack-ecommerce)
+- 🔭 I’m currently working on a frontend application of qurate retail group
 
 - 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://next-js-portfolio-xi-tawny.vercel.app/)
-
-- 💬 Ask me about **React.js, Node.js, Express.js and MongoDb.**
+- 
+- 💬 Ask me about **React.js, Next.js, Node.js, Java**
 
 - 📫 How to reach me **sharmaakapil01@gmail.com**
 
